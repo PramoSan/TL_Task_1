@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\omeg.000\Desktop\Techlabs\Test Practicles\altium tasks\altm task1\Techlabs_Task2\task1_pcb.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=0.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=1.97
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

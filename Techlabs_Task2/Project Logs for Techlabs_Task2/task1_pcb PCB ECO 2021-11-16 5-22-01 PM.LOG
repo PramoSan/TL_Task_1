@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=VCC Pin=vregulator-EN
+Removed Pin From Net: NetName=GND Pin=vregulator-GND
+Removed Pin From Net: NetName=VCC Pin=vregulator-VIN
+Removed Pin From Net: NetName=3V3 Pin=vregulator-VOUT
+Added Component: Designator=*(9193new)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=*-EN
+Added Pin To Net: NetName=GND Pin=*-GND
+Added Pin To Net: NetName=VCC Pin=*-VIN
+Added Pin To Net: NetName=3V3 Pin=*-VOUT
+Added Pin To Net: NetName=Net*_BP Pin=*-BP
+Added Pin To Net: NetName=Net*_BP Pin=C3-2
+Added Net: Name=Net*_BP

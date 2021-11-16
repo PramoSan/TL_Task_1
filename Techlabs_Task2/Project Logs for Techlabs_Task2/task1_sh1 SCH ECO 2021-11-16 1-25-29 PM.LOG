@@ -1,0 +1,9 @@
+Update Managed Component C1 From CMP-2000-06370-2[GRM55DR72E105KW01L] To CMP-2000-06370-2[GRM55DR72E105KW01L] in task1_sh1.SchDoc
+Update Managed Component C2 From CMP-2000-06370-2[GRM55DR72E105KW01L] To CMP-2000-06370-2[GRM55DR72E105KW01L] in task1_sh1.SchDoc
+Update Managed Component C3 From CMP-2006-02910-1[GRM188R71H223KA01D] To CMP-2006-02910-1[GRM188R71H223KA01D] in task1_sh1.SchDoc
+Update Managed Component output From CMP-15831-000009-1[M20-9990246] To CMP-15831-000009-1[M20-9990246] in task1_sh1.SchDoc
+Update Managed Component red_LED From CMP-1488-00008-1[151051RS11000] To CMP-1488-00008-1[151051RS11000] in task1_sh1.SchDoc
+Update Managed Component res1 From CMP-2000-03085-2[CRCW0603220RFKEA] To CMP-2000-03085-2[CRCW0603220RFKEA] in task1_sh1.SchDoc
+Update Managed Component res2 From CMP-2000-03823-2[CRCW0603100KJNEA] To CMP-2000-03823-2[CRCW0603100KJNEA] in task1_sh1.SchDoc
+Update Managed Component uUSB_port From CMP-1502-03253-1[629105136821] To CMP-1502-03253-1[629105136821] in task1_sh1.SchDoc
+Replace Part vregulator Component_1 in C:\Users\omeg.000\Desktop\Techlabs\Test Practicles\altium tasks\altm task1\Techlabs_Task2\task1_sh1.SchDoc with Component_1 from Integrated_Library1.IntLib
