@@ -1,0 +1,12 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Techlabs_Task2.PrjPcb]
+   Generated File[task1_pcb.RUL]
+   Generated File[task1_pcb.EXTREP]
+   Generated File[task1_pcb.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 5:35:07 PM On 2021-11-16

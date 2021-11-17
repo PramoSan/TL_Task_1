@@ -1,0 +1,9 @@
+Added Component: Designator=vregulator(Component_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=vregulator-EN
+Added Pin To Net: NetName=GND Pin=vregulator-GND
+Added Pin To Net: NetName=VCC Pin=vregulator-VIN
+Added Pin To Net: NetName=3V3 Pin=vregulator-VOUT
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=vregulator-BP
+Added Net: Name=NetC3_2

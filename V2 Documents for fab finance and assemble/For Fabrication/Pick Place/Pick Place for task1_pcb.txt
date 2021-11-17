@@ -1,0 +1,22 @@
+Altium Designer Pick and Place Locations
+C:\Users\omeg.000\Desktop\Techlabs\Test Practicles\altium tasks\altm task1\Techlabs_Task2\Project Outputs for Free Documents\Pick Place\Pick Place for task1_pcb.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       16-11-21
+Time:       18:33
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment            Layer    Footprint             Center-X(mm) Center-Y(mm) Rotation Description                                                                                
+vregulator Component_1        TopLayer 9193new               22.3250      16.1500      0        ""                                                                                         
+res1       CRCW0603220RFKEA   TopLayer FP-CRCW0603-e3-MFG    10.5000      16.9000      90       "RES Thick Film, 220O, 1%, 0.1W, 100ppm/°C, 0603"                                          
+res2       CRCW0603100KJNEA   TopLayer FP-CRCW0603-e3-IPC_C  22.0000      20.6000      180      "RES Thick Film, 100kO, 5%, 0.1W, 200ppm/°C, 0603"                                         
+C3         GRM188R71H223KA01D TopLayer CAPC1608X90X35ML10T15 20.9000      10.6250      90       ""                                                                                         
+C2         GRM55DR72E105KW01L TopLayer FP-GRM55D-0_4-IPC_A   28.6000      16.9505      270      "Chip Multilayer Ceramic Capacitors for General Purpose, 2220, 1.0uF, X7R, 15%, 10%, 250V" 
+C1         GRM55DR72E105KW01L TopLayer FP-GRM55D-0_4-IPC_A   15.3000      17.0000      270      "Chip Multilayer Ceramic Capacitors for General Purpose, 2220, 1.0uF, X7R, 15%, 10%, 250V" 
+uUSB_port  629105136821       TopLayer 629105136821          6.2825       8.9200       270      "Micro USB 2.0 Type B Receptacle WR-COM, Horizontal, SMT, with Pads and Pegs"              
+red_LED    151051RS11000      TopLayer Type_5mm              15.2400      8.8900       270      "THT LED round mono-color color lens, WL-TMRW, Red"                                        
+output     M20-9990246        TopLayer FP-M20-9990246-MFG    28.0000      9.4000       180      "CONN HEADER VERT 2POS 2.54MM"                                                             

@@ -1,0 +1,6 @@
+Change Component Comment: Designator=vregulator Old Comment=vregulator New Comment=Comment
+Change Pin Package Length: Pin=vregulator-BP Old Length=400mil New Length=0mil
+Change Pin Package Length: Pin=vregulator-EN Old Length=400mil New Length=0mil
+Change Pin Package Length: Pin=vregulator-GND Old Length=400mil New Length=0mil
+Change Pin Package Length: Pin=vregulator-VIN Old Length=400mil New Length=0mil
+Change Pin Package Length: Pin=vregulator-VOUT Old Length=400mil New Length=0mil
